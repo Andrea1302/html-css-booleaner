@@ -51,3 +51,6 @@ table{
 }
 
 /* css ultima section main */
+footer>h4{
+    margin-bottom: 0;
+}
