@@ -1,6 +1,6 @@
 
 /* css header */
-.intestazione{
+#intestazione{
     height: 200px;
     background-image: url('../img/pattern.png');
     background-color: hsla(214, 100%, 50%, 0.808);
@@ -58,7 +58,7 @@ footer>h4{
 /* Bonus */
 
 main,footer{
-    width: 100%;
+    width: 80%;
     margin: 0 auto;
 }
 
