@@ -1,0 +1,30 @@
+
+/* css header */
+.intestazione{
+    height: 200px;
+    background-image: url('../img/pattern.png');
+    background-color: hsla(214, 100%, 50%, 0.808);
+    position: relative;
+}
+#logo{
+    width: 20%;
+    height: 20%;
+    position: absolute;
+    left: 0;
+    bottom: 5%;
+}
+h1{
+    margin-bottom: 0;
+}
+
+.scritto{
+    color: grey;
+}
+#scritto_blu{
+    color: rgb(30, 210, 255);
+}
+#data{
+    font-size: 8px;
+}
+
+/* main */
