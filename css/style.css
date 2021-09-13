@@ -28,3 +28,9 @@ h1{
 }
 
 /* main */
+.descrizione_foto{
+    font-size: 10px;
+}
+.evidenziato{
+    background-color: yellow;
+}
