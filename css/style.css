@@ -34,3 +34,20 @@ h1{
 .evidenziato{
     background-color: yellow;
 }
+
+/* css tabella */
+table{
+    width: 100%;;
+}
+.colore_tabella{
+    background-color: rgb(44, 157, 250);
+    color: white;
+}
+.colonna{
+    width: 25%;
+}
+.colore_riga{
+    background-color: lightblue;
+}
+
+/* css ultima section main */
